@@ -1,0 +1,108 @@
+body
+{
+margin: 0px;
+padding: 0px;
+margin-left: 8px;
+}
+
+
+.b
+{
+display:block;
+width: 819px;
+height:460px;
+background:url("logo2.png"); margin-top: 10%; margin-left: 20%;
+}
+
+
+.b:hover
+{
+background-position:0 -460px;
+}
+
+
+.a
+{
+background:url("FOON1.png");
+background-size: 100% 100%;
+}
+
+
+.mo
+{
+display: block;
+width: 327px;
+height:70px;
+background:url("mo3.jpg"); margin-left: 5% ;
+}
+
+
+.mo:hover
+{
+background-position:0 -70px;
+}
+
+
+.my
+{
+display:block;
+width: 327px;
+height: 70px;
+background: url("my3.jpg"); margin-left: 5%;
+}
+
+
+.my:hover
+{
+background-position: 0 -70px;
+
+}
+
+
+.tx
+{
+color:#FF8000;
+}
+
+
+.love
+{
+font-size: 24px;
+color: #FE5400
+}
+
+
+#text
+{
+margin-left: 8px;
+font-size: 115%;
+}
+
+
+.txt
+{
+font-family: Georgia;
+font-style: italic;
+font-size: 28px;
+}
+
+
+.purple
+{
+font-size: 24px;
+color: #6A0888;
+}
+
+
+.fonfor2
+{
+margin-left: 10px;
+margin-top: 10px;
+}
+
+
+.fonforr2
+{
+font-size: 115%;
+}
+
